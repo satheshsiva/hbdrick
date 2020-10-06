@@ -1,10 +1,10 @@
-Package: hbdjoel
+Package: hbdrick
 Type: Package
-Title: Happy birthday, Joel
+Title: Happy birthday, Rick!
 Version: 0.1.0
 Author: sprql
-Maintainer: sue <sue.song@mail.utoronto.ca>
-Description: fancily deliver birthday messages for Joel from people who love Joel
+Maintainer: Name <name@mail.utoronto.ca>
+Description: fancily deliver birthday messages for Rick from people who love Rick
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
