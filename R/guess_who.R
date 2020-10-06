@@ -3,11 +3,11 @@
 
 guess_who <- function() {
 
-    guess_msg = hbdjoel::data %>%
+    guess_msg = hbdrick::data %>%
         dplyr::sample_n(size = 1)
 
 
-    options = sample(c(guess_msg$name, sample( hbdjoel::data$name[ hbdjoel::data$name != guess_msg$name], 4)), 5)
+    options = sample(c(guess_msg$name, sample( hbdrick::data$name[ hbdrick::data$name != guess_msg$name], 4)), 5)
     guess = readline( prompt = cat(guess_msg$msg,
                            "\n",
                            "Which of the following person said the message above?\n",
