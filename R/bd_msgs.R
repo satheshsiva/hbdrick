@@ -15,7 +15,8 @@ data = tibble::tribble(
   "liz",  "Happy birthday Joel! Every life that you touch is a little better than before you met. I hope you have a meaningful and delightful birthday, because I love your existence! \U1F496",
   "stephanie", "HAPPY BIRTHDAY JOEL!!!!! \U1F389 \U1F496 \U1F37B You’re so awesome and kind and generous, and you deserve to have THE BEST DAY EVER!",
   "jackie", "\U1F496 \U1F389 \U1F496 HAPPY BIRTHDAY, JOEL! \U1F496 \U1F389 \U1F496  Gone are the days when you were not born! In this SPRQLing era of Joel, we rejoice!! But actually, because YOU are the absolute BEST! I’m so thankful, and joyful, and full of pride to have you as a labmate, collaborator, and friend. I wish you joy, flow, peace, and walks by the water for this year. \U1F30A \U1F30A \U1F30A",
-  "francine", "Wishing you a wonderful birthday full of love and laughter"
+  "francine", "Wishing you a wonderful birthday full of love and laughter",
+  "Maryam","Happy birthday Rick! Take a break from the rage channel today!"
 )
 
 # save it.
