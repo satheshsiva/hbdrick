@@ -8,7 +8,7 @@ The goal of hbdrick is to *fancily* deliver birthday messages to Rick from those
 
 ## Installation
 
-You can install the released version of hbdjoel from [hbdrick](https://github/aseetharam/hbdrick) with:
+You can install the released version of hbdrick from [hbdrick](https://github/aseetharam/hbdrick) with:
 
 ``` r
 devtools::install_github("aseetharam/hbdrick")
