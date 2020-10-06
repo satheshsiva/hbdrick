@@ -2,7 +2,8 @@
 data = tibble::tribble(
   ~name,  ~msg,
   "jennifer","HAPPY BIRTHDAY RICK! Wishing you great fishing weather and error-less condo data transfers. Keep being awesome!",
-  "arun","Happy birthday! I hope you get to eat Jeff's Pizza today and get to install Juicer on all the HPC clusters at ISU.. because that's what you love to do on your bday!",
+  "sathesh","MANY MORE HAPPY RETURNS OF THE RICK! All the best with your HiC plots, hope all will go wrong, rock you",
+  "shelly","Have a great and wonderful birthday, Joel! You rock!",
   "will", "BIRTHDAY BIRTHDAY BIRTHDAY BIRTHDAY HAPPY YAYAYAYA",
   "sue",  "Joel, you are a SSHRC Scholar, a (soon-to-be) father of Bon Bon, a connoisseur of Whiskey Sour, a solar-powered human emitting positive energy and so fucking much life. But more than that, you are the best labmate and friend anyone can ask for. I am grateful I have you in my life, and thank you for existing. Happy birthday \U1F496",
   "louisa",  "HAPPY BIRTHDAY JOEL!! \U1F389 May your day of birth be full of dessert and happiness and hopefully we can all celebrate in person together soon! Congratulations on another trip around the sun!!!",
